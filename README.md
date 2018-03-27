@@ -7,7 +7,11 @@ For full demo videos and discussion visit the [Unreal Forum discussion page](htt
 
 ## Install
 
-Just download the release of this repository and copy it to the Plugins subfolder of your project. Make sure that you downloaded the version corresponding to your Unreal Engine 4 version.
+[Download the release](https://github.com/ydrive/StreetArch/releases) of this repository!
+
+Then just copy it to the Plugins subfolder of your project; and that's it.
+
+*Make sure that you downloaded the version corresponding to your Unreal Engine 4 version.*
 
 ## Usage
 
